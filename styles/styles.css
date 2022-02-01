@@ -1,0 +1,16 @@
+.cella
+{
+    border: solid 2px blue;  
+    border-radius: 50%;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 7%;
+    padding-bottom: 7%;
+    margin: 4px;
+}
+
+.freccia
+{
+    width: 100%;
+    height: 100%;
+}
